@@ -14,6 +14,7 @@ namespace MyAppForGitHub
             Console.WriteLine("One more time");
             Console.WriteLine("One more time, and one more time!!!!");
             Console.WriteLine("WWWW");
+            Console.WriteLine("Hi");
             Console.ReadLine();
         }
     }
