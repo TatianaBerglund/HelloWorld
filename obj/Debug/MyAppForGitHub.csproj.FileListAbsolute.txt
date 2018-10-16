@@ -1,0 +1,7 @@
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\bin\Debug\MyAppForGitHub.exe.config
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\bin\Debug\MyAppForGitHub.exe
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\bin\Debug\MyAppForGitHub.pdb
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\obj\Debug\MyAppForGitHub.csprojAssemblyReference.cache
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\obj\Debug\MyAppForGitHub.csproj.CoreCompileInputs.cache
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\obj\Debug\MyAppForGitHub.exe
+C:\Users\taberglu\source\repos\MyAppForGitHub\MyAppForGitHub\obj\Debug\MyAppForGitHub.pdb
