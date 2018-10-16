@@ -10,7 +10,8 @@ namespace MyAppForGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world.");
+            Console.WriteLine("One more time");
             Console.ReadLine();
         }
     }
